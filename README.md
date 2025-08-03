@@ -60,7 +60,6 @@ The dashboard includes the following insights:
 - Genres like **Action, Drama, Crime, Fantasy** frequently appear among top-rated categories.
 - Ratings have remained relatively stable across the years analyzed.
 
----
 
-## 📁 Project Structure
+
 
